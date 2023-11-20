@@ -1,0 +1,2 @@
+# python
+gunting batu kertas
